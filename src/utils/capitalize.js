@@ -1,0 +1,1 @@
+// Author names are properly capitalized

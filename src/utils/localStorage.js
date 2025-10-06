@@ -1,0 +1,1 @@
+// “favorites” or “last viewed quote”.

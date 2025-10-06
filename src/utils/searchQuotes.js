@@ -1,0 +1,1 @@
+// Filter quotes by text or author

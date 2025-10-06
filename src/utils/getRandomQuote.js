@@ -1,0 +1,1 @@
+// Return a random quote from a given list
