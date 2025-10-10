@@ -44,3 +44,19 @@ A simple React app where contributors add and view motivational, inspirational, 
 ## Hacktoberfest
 
 This project is beginner-friendly. Issues are marked with labels like `good first issue` and `help wanted`.
+
+## Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+## Code of Conduct
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our community standards.
+
+## Security
+
+If you discover a security vulnerability, please see our [Security Policy](SECURITY.md) for reporting instructions.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
